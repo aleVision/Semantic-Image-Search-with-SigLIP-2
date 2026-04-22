@@ -1,0 +1,6 @@
+torch>=2.2.0
+transformers>=4.45.0
+faiss-cpu>=1.8.0
+Pillow>=10.0.0
+numpy>=1.26.0
+gradio>=4.44.0
