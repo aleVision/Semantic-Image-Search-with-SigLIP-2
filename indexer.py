@@ -6,6 +6,9 @@ Usage:
 import argparse
 from search import ImageSearchEngine
 
+from dotenv import load_dotenv
+load_dotenv()
+
 
 def main() -> None:
     ap = argparse.ArgumentParser()

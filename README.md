@@ -31,7 +31,7 @@ Both text and images map to the **same 768-d unit-sphere embedding space**, so c
 
 ```bash
 git clone <your-repo>
-cd 01_image_search
+cd Semantic-Image-Search-with-SigLIP-2
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 ```
