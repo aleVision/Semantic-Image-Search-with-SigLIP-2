@@ -4,7 +4,6 @@ A tiny, production-shaped image search engine that lets you query a folder of im
 
 ![demo placeholder](docs/demo.gif)
 
-## Why this project
 
 Most "image search" tutorials still use CLIP (2021). SigLIP 2 trains with a **sigmoid loss**, scales much better with batch size, and beats CLIP on almost every zero-shot retrieval benchmark — especially for multilingual queries and fine-grained concepts. Swapping the backbone is a one-line change, but the downstream quality jump is large.
 
